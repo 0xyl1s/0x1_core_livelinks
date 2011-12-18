@@ -1,0 +1,7 @@
+
+export HISTTIMEFORMAT="%Y-%m-%d_%H%M.%S  "
+export HISTCONTROL=ignoreboth
+
+set -o vi
+
+# vim: ft=sh

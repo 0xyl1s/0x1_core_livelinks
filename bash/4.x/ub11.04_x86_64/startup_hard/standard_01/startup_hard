@@ -1,0 +1,9 @@
+xset -b &
+source ~/.ec1/00mu/xorg/00livelinks/keyboard_speed_command/keyboard_speed_command
+source ~/.ec1/00mu/xorg/00livelinks/keyboard_language_command/keyboard_language_command
+numlockx on &
+xxkb &
+source ~/.ec1/00mu/openssh/00livelinks/sshagent_terminal_add/sshagent_terminal_add
+
+
+# vim: ft=sh

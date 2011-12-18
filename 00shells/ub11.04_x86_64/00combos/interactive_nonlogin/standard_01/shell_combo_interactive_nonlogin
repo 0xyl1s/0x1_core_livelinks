@@ -1,0 +1,12 @@
+
+source ~/.ec1/00mu/00sourcing/ec1_livelinks/bash/4.x/configs/ub11.04/x86_64/variable_export_path_ec1_00loading/standard_01/variable_export_path_ec1_00loading
+source ~/.ec1/00mu/00sourcing/ec1_livelinks/bash/4.x/configs/ub11.04/x86_64/variable_export_rubylib_ec1_00loading/standard_01/variable_export_rubylib_ec1_00loading
+
+source ~/.ec1/00mu/00sourcing/ec1_livelinks/rvm/1.x/configs/ub11.04/x86_64/rvm_shell_sourcing/standard_01/rvm_shell_sourcing
+source ~/.ec1/00mu/00sourcing/ec1_livelinks/00shells/configs/ub11.04/x86_64/exec/umask/007
+
+source ~/.ec1/00mu/00sourcing/ec1_livelinks/00shells/configs/ub11.04/x86_64/export_variables/term/rxvt
+source ~/.ec1/00mu/00sourcing/ec1_livelinks/00shells/configs/ub11.04/x86_64/export_variables/editor/usr-bin-vim
+source ~/.ec1/00mu/00sourcing/ec1_livelinks/00shells/configs/ub11.04/x86_64/aliases/.e/standard_01
+
+# vim: ft=sh

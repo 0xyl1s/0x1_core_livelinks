@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+for loading_dir in ~/.ec1/00mu/00scripts/00loading/rubylib/*; do
+    export RUBYLIB="$loading_dir:$RUBYLIB"
+done
+
+# vim: ft=sh

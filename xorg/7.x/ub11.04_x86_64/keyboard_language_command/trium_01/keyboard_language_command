@@ -1,0 +1,1 @@
+setxkbmap -model pc104 -option grp:switch,grp:shifts_toggle,grp_led:scroll 'us,gr,us(intl)';

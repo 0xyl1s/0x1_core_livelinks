@@ -1,0 +1,1 @@
+urxvt -geometry 139x39+27+311 -T root_local -e su - &

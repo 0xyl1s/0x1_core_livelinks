@@ -1,0 +1,6 @@
+if [ -d "$HOME/.ec1/00mu/00user_scripts/bin" ] && [ -d "$HOME/.ec1/00mu/00user_scripts/lib" ] ; then
+    export PATH="$HOME/.ec1/00mu/00user_scripts/bin:$PATH"
+    export RUBYLIB="$HOME/.ec1/00mu/00user_scripts/lib:$RUBYLIB"
+fi
+
+# vim: ft=sh
