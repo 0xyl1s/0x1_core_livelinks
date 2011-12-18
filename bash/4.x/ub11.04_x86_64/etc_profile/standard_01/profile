@@ -27,8 +27,8 @@ fi
 
 #umask 022
 
-source /.ec1/ec1_softs/bash/4.x/configs/ub11.04/x86_64/variable_export_term/rxvt_01/variable_export_term
-source /.ec1/ec1_softs/bash/4.x/configs/ub11.04/x86_64/variable_export_ec1_users_scripts/standard_01/variable_export_ec1_users_scripts
-source /.ec1/ec1_softs/bash/4.x/configs/ub11.04/x86_64/variable_export_mu_user_scripts/standard_01/variable_export_mu_user_scripts
+source ~/.ec1/00mu/00sourcing/ec1_core_livelinks/bash/4.x/ub11.04_x86_64/variable_export_term/rxvt_01/variable_export_term
+source ~/.ec1/00mu/00sourcing/ec1_core_livelinks/bash/4.x/ub11.04_x86_64/variable_export_ec1_users_scripts/standard_01/variable_export_ec1_users_scripts
+source ~/.ec1/00mu/00sourcing/ec1_core_livelinks/bash/4.x/ub11.04_x86_64/variable_export_mu_user_scripts/standard_01/variable_export_mu_user_scripts
 
 
