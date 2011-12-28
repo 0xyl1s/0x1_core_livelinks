@@ -1,2 +1,0 @@
-export PATH="/.ec1/ec1_users_scripts/bin:$PATH"
-export RUBYLIB="/.ec1/ec1_users_scripts/lib:$RUBYLIB"
