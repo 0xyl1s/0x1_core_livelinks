@@ -1,0 +1,8 @@
+
+source ~/.ec1/00mu/00sourcing/ec1_core_livelinks/ub11.04_x86_64/00shells/export_variables/path_ec1_00loading/variation_01/variable_export_path_ec1_00loading
+source ~/.ec1/00mu/00sourcing/ec1_core_livelinks/ub11.04_x86_64/00shells/export_variables/rubylib_ec1_00loading/variation_01/variable_export_rubylib_ec1_00loading
+
+source ~/.ec1/00mu/00sourcing/ec1_core_livelinks/ub11.04_x86_64/rvm/rvm_shell_sourcing/variation_01/rvm_shell_sourcing
+
+
+# vim: ft=sh
