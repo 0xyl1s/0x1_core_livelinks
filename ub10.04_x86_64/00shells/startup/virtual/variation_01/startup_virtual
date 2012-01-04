@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+source ~/.ec1/00mu/bbpager/00livelinks/launch_command/bbpager_launch
+source ~/.ec1/00mu/00idcom/os_wallpaper_command
+source ~/.ec1/00mu/conky/00configs/conky_rcs
+
+# vim: ft=sh
