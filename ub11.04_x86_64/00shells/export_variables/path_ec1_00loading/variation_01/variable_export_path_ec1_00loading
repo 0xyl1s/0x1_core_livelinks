@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-
-for loading_dir in ~/.ec1/00mu/00scripts/00loading/bin/*; do
-    export PATH="$loading_dir:$PATH"
-done
-
-# vim: ft=sh
