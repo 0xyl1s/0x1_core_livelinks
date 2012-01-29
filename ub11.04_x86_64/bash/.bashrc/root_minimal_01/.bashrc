@@ -104,6 +104,6 @@ fi
 
 
 #¬«««
-source ~/.ec1/00mu/bash/00config/.bashrc.ec1local
+source ~/.0x1/00mu/bash/00config/.bashrc.0x1local
 #\¬«««
 
