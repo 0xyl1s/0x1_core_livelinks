@@ -9,6 +9,6 @@ fi
 mesg n
 
 #¬«««
-source ~/.ec1/00mu/bash/00config/.profile.ec1local
+source ~/.0x1/00mu/bash/00config/.profile.0x1local
 #\¬«««
 
