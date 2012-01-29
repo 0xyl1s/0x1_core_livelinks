@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-for loading_dir in ~/.ec1/00mu/00scripts/00loading/bin/*; do
+for loading_dir in ~/.0x1/00mu/00scripts/00loading/bin/*; do
     export PATH="$loading_dir:$PATH"
 done
 
