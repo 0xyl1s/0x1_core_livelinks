@@ -68,8 +68,9 @@ bindkey -v
 bindkey jj vi-cmd-mode
 bindkey -M vicmd v edit-command-line
 
-alias -g ...=../..
-alias -g ....=../../..
+alias -g ...='../..'
+alias -g ....='../../..'
+alias -g .....='../../../..'
 
 alias ,mu="~/.0x1/00mu/ && l"
 alias ,do="~/_/00down/ && ll"
